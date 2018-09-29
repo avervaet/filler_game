@@ -22,4 +22,4 @@ As well as obstacles (in grey):
 
 ![Alt_text](https://image.ibb.co/c6Tmo7/filler5.jpg)
 
-Finally, it is possible to create your own map using the ![Grid Editor](https://github.com/vostertag/filler-edit).
+Finally, it is possible to create your own map using the ![Grid Editor](https://github.com/avervaet/filler_frid_editor).
